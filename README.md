@@ -2,7 +2,7 @@
 
 meu nome é joão pedro
 
-- estou estudando na alura
+- estou estudando na [alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem javaScript
 - utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
@@ -12,4 +12,4 @@ meu nome é joão pedro
  
  @joãopedro
 
- 
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
